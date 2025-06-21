@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
   "extends": "next/core-web-vitals",
   "rules": {
     "@next/next/no-img-element": "off",
     "react/no-unescaped-entities": "error"
   }
+=======
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "@next/next/no-img-element": "off",
+    "react/no-unescaped-entities": "error"
+  }
+>>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 
