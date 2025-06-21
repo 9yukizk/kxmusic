@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-white/10;
+  }
+  
+  body {
+    @apply bg-midnight text-white font-sans;
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+    min-height: 100vh;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/10 backdrop-blur-md border border-white/20;
+  }
+  
+  .neon-glow {
+    @apply shadow-[0_0_20px_rgba(0,212,255,0.5)];
+  }
+  
+  .neon-text {
+    @apply text-neon-blue drop-shadow-[0_0_10px_rgba(0,212,255,0.8)];
+  }
+  
+  .gradient-text {
+    @apply bg-gradient-to-r from-neon-blue via-neon-cyan to-neon-electric bg-clip-text text-transparent;
+  }
+  
+  .card-hover {
+    @apply transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-neon-blue/20;
+  }
+  
+  .sidebar-item {
+    @apply flex items-center gap-3 px-4 py-3 rounded-lg transition-all duration-200 hover:bg-white/10 hover:text-neon-blue;
+  }
+  
+  .sidebar-item.active {
+    @apply bg-neon-blue/20 text-neon-blue border border-neon-blue/30;
+  }
+  
+  .player-control {
+    @apply p-2 rounded-full transition-all duration-200 hover:bg-white/10 hover:scale-110;
+  }
+  
+  .progress-bar {
+    @apply h-1 bg-white/20 rounded-full overflow-hidden;
+  }
+  
+  .progress-fill {
+    @apply h-full bg-gradient-to-r from-neon-blue to-neon-cyan transition-all duration-300;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-dark-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-neon-blue/50 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-neon-blue;
+}
+
+/* Audio player custom styles */
+.rhap_container {
+  @apply bg-transparent !important;
+}
+
+.rhap_progress-bar {
+  @apply bg-white/20 !important;
+}
+
+.rhap_progress-filled {
+  @apply bg-gradient-to-r from-neon-blue to-neon-cyan !important;
+}
+
+.rhap_time {
+  @apply text-white/70 !important;
+}
+
+.rhap_controls-section {
+  @apply gap-4 !important;
+}
+
+.rhap_main-controls-button {
+  @apply text-white hover:text-neon-blue transition-colors !important;
+}
+
+.rhap_volume-controls {
+  @apply gap-2 !important;
+}
+
+.rhap_volume-bar {
+  @apply bg-white/20 !important;
+}
+
+.rhap_volume-filled {
+  @apply bg-neon-blue !important;
+} 
