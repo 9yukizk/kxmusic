@@ -1,4 +1,6 @@
-# KX Music - Reproductor de Música Futurista
+# 🎵 KXMusic - Aplicación de Música Futurista
+
+**¡Aplicación completamente funcional y lista para usar!** ✨
 
 Una aplicación web moderna y futurista para reproducir música, con un diseño inspirado en Spotify pero con una paleta de colores neón oscura y funcionalidades avanzadas.
 
