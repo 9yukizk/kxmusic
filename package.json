@@ -1,7 +1,7 @@
 {
   "name": "kxmusic",
   "version": "1.0.0",
-  "description": "Modern music streaming application with futuristic design",
+  "description": "Modern music streaming application with futuristic design - Fixed merge conflicts",
   "private": true,
   "scripts": {
     "dev": "next dev",
