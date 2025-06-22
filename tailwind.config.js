@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -77,7 +77,7 @@ module.exports = {
     },
   },
   plugins: [],
-=======
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -156,5 +156,4 @@ module.exports = {
     },
   },
   plugins: [],
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

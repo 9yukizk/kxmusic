@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import { useState, useEffect } from 'react'
@@ -154,7 +154,7 @@ export default function LocalMusicView() {
       )}
     </motion.div>
   )
-=======
+
 'use client'
 
 import { useState, useEffect } from 'react'
@@ -310,5 +310,4 @@ export default function LocalMusicView() {
       )}
     </motion.div>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

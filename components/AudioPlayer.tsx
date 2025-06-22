@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
@@ -332,7 +332,7 @@ export default function AudioPlayer() {
       </motion.div>
     </>
   )
-=======
+
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
@@ -666,5 +666,4 @@ export default function AudioPlayer() {
       </motion.div>
     </>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

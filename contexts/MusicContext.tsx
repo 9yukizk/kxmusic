@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import React, { createContext, useContext, useReducer, useEffect } from 'react'
@@ -276,7 +276,7 @@ export function useMusic() {
     throw new Error('useMusic must be used within a MusicProvider')
   }
   return context
-=======
+
 'use client'
 
 import React, { createContext, useContext, useReducer, useEffect } from 'react'
@@ -554,5 +554,4 @@ export function useMusic() {
     throw new Error('useMusic must be used within a MusicProvider')
   }
   return context
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

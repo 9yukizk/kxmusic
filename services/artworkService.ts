@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
 import { existsSync } from 'fs';
@@ -208,7 +208,7 @@ export class ArtworkService {
       return '/default-album-cover.jpg'
     }
   }
-=======
+
 import { writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
 import { existsSync } from 'fs';
@@ -406,5 +406,4 @@ export class ArtworkService {
       return null;
     }
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

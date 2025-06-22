@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 "use client";
 
 import { QueryClient, QueryClientProvider } from "react-query";
@@ -21,7 +21,7 @@ export default function ClientProviders({ children }: { children: ReactNode }) {
     </QueryClientProvider>
   );
 }
-=======
+
 "use client";
 
 import { QueryClient, QueryClientProvider } from "react-query";
@@ -44,4 +44,3 @@ export default function ClientProviders({ children }: { children: ReactNode }) {
     </QueryClientProvider>
   );
 }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a

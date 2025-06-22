@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
@@ -35,7 +35,7 @@ export default function RootLayout({
       </body>
     </html>
   )
-=======
+
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
@@ -72,5 +72,4 @@ export default function RootLayout({
       </body>
     </html>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

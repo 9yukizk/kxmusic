@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import { useState, useRef } from 'react'
@@ -264,7 +264,7 @@ export default function MusicUploader() {
       </AnimatePresence>
     </>
   )
-=======
+
 'use client'
 
 import { useState, useRef } from 'react'
@@ -509,5 +509,4 @@ export default function MusicUploader() {
       </AnimatePresence>
     </>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

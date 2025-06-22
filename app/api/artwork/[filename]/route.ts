@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { NextRequest, NextResponse } from 'next/server';
 import { readFile, stat } from 'fs/promises';
 import { join } from 'path';
@@ -66,7 +66,7 @@ export async function GET(
       { status: 500 }
     );
   }
-=======
+
 import { NextRequest, NextResponse } from 'next/server';
 import { readFile, stat } from 'fs/promises';
 import { join } from 'path';
@@ -134,5 +134,4 @@ export async function GET(
       { status: 500 }
     );
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

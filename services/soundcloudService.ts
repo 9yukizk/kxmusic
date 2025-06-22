@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Track } from '@/contexts/MusicContext'
 
 const SOUNDCLOUD_CLIENT_ID = 'YOUR_SOUNDCLOUD_CLIENT_ID' // Debes registrar tu app en https://soundcloud.com/you/apps
@@ -40,7 +40,7 @@ export class SoundCloudService {
       return []
     }
   }
-=======
+
 import { Track } from '@/contexts/MusicContext'
 
 const SOUNDCLOUD_CLIENT_ID = 'YOUR_SOUNDCLOUD_CLIENT_ID' // Debes registrar tu app en https://soundcloud.com/you/apps
@@ -82,5 +82,4 @@ export class SoundCloudService {
       return []
     }
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

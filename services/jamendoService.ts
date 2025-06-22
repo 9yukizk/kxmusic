@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Track } from '@/contexts/MusicContext'
 
 const JAMENDO_CLIENT_ID = 'YOUR_JAMENDO_CLIENT_ID' // Regístrate en https://developer.jamendo.com/v3.0
@@ -38,7 +38,7 @@ export class JamendoService {
       return []
     }
   }
-=======
+
 import { Track } from '@/contexts/MusicContext'
 
 const JAMENDO_CLIENT_ID = 'YOUR_JAMENDO_CLIENT_ID' // Regístrate en https://developer.jamendo.com/v3.0
@@ -78,5 +78,4 @@ export class JamendoService {
       return []
     }
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚨 Configuración Inmediata - Sin Node.js
 
 ## ❌ Problema Actual
@@ -119,7 +119,7 @@ Si necesitas ayuda urgente:
 
 ---
 
-=======
+
 # 🚨 Configuración Inmediata - Sin Node.js
 
 ## ❌ Problema Actual
@@ -240,5 +240,4 @@ Si necesitas ayuda urgente:
 
 ---
 
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 **¡Una vez que instales Node.js, tu aplicación de música futurista estará lista! 🎵✨** 

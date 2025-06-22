@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700;800&display=swap');
 @tailwind base;
 @tailwind components;
@@ -129,7 +129,7 @@
 
 .rhap_volume-filled {
   @apply bg-neon-blue !important;
-=======
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700;800&display=swap');
 @tailwind base;
 @tailwind components;
@@ -260,5 +260,4 @@
 
 .rhap_volume-filled {
   @apply bg-neon-blue !important;
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

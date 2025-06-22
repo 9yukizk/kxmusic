@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Guía de Instalación - KX Music
 
 ## 📋 Prerrequisitos
@@ -189,7 +189,7 @@ Si tienes problemas:
 
 ---
 
-=======
+
 # 🚀 Guía de Instalación - KX Music
 
 ## 📋 Prerrequisitos
@@ -380,5 +380,4 @@ Si tienes problemas:
 
 ---
 
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 **¡Tu aplicación de música futurista está lista! 🎵✨** 

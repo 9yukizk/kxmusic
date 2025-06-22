@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sistema de Carátulas Automáticas
 
 ## 🎨 Descripción
@@ -212,7 +212,7 @@ console.log('Carátula encontrada:', artworkUrl);
 
 ---
 
-=======
+
 # Sistema de Carátulas Automáticas
 
 ## 🎨 Descripción
@@ -426,5 +426,4 @@ console.log('Carátula encontrada:', artworkUrl);
 
 ---
 
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 **¡Disfruta de carátulas automáticas en tu música! 🎨✨** 

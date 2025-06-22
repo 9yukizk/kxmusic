@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import { Track } from '@/contexts/MusicContext'
@@ -166,7 +166,7 @@ export default function TrackCard({ track, showPlayButton = true }: TrackCardPro
       />
     </>
   )
-=======
+
 'use client'
 
 import { Track } from '@/contexts/MusicContext'
@@ -334,5 +334,4 @@ export default function TrackCard({ track, showPlayButton = true }: TrackCardPro
       />
     </>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

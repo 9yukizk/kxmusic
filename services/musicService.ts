@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Track } from '@/contexts/MusicContext'
 
 // YouTube API integration
@@ -314,7 +314,7 @@ export const extractYouTubeId = (url: string): string | null => {
 
 export const generateThumbnailUrl = (youtubeId: string): string => {
   return `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`
-=======
+
 import { Track } from '@/contexts/MusicContext'
 
 // YouTube API integration
@@ -630,5 +630,4 @@ export const extractYouTubeId = (url: string): string | null => {
 
 export const generateThumbnailUrl = (youtubeId: string): string => {
   return `https://img.youtube.com/vi/${youtubeId}/maxresdefault.jpg`
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

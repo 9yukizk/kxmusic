@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Track } from '@/contexts/MusicContext'
 
 const DEEZER_API_URL = 'https://api.deezer.com'
@@ -126,7 +126,7 @@ export class DeezerService {
     // For now, we'll use the preview URL
     return null
   }
-=======
+
 import { Track } from '@/contexts/MusicContext'
 
 const DEEZER_API_URL = 'https://api.deezer.com'
@@ -254,5 +254,4 @@ export class DeezerService {
     // For now, we'll use the preview URL
     return null
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

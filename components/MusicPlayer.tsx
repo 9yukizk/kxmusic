@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import { useMusic } from '@/contexts/MusicContext'
@@ -315,7 +315,7 @@ export default function MusicPlayer() {
       </motion.div>
     </>
   )
-=======
+
 'use client'
 
 import { useMusic } from '@/contexts/MusicContext'
@@ -632,5 +632,4 @@ export default function MusicPlayer() {
       </motion.div>
     </>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

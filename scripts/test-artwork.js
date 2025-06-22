@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Script de prueba para el servicio de carátulas
 // Ejecutar con: node scripts/test-artwork.js
 
@@ -32,7 +32,7 @@ async function testArtworkService() {
 }
 
 // Ejecutar las pruebas
-=======
+
 // Script de prueba para el servicio de carátulas
 // Ejecutar con: node scripts/test-artwork.js
 
@@ -66,5 +66,4 @@ async function testArtworkService() {
 }
 
 // Ejecutar las pruebas
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 testArtworkService(); 

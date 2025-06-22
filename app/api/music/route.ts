@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { NextResponse } from 'next/server';
 import { kv } from '@vercel/kv';
 
@@ -16,7 +16,7 @@ export async function GET() {
       { status: 500 }
     );
   }
-=======
+
 import { NextResponse } from 'next/server';
 import { readdir, stat } from 'fs/promises';
 import { join } from 'path';
@@ -90,5 +90,4 @@ export async function GET() {
       { status: 500 }
     );
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

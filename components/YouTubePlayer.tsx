@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 'use client'
 
 import { useState, useEffect } from 'react'
@@ -140,7 +140,7 @@ export default function YouTubePlayer({
       </motion.div>
     </AnimatePresence>
   )
-=======
+
 'use client'
 
 import { useState, useEffect } from 'react'
@@ -282,5 +282,4 @@ export default function YouTubePlayer({
       </motion.div>
     </AnimatePresence>
   )
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

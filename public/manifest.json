@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "KX Music - Futuristic Music Streaming",
   "short_name": "KX Music",
@@ -39,7 +39,7 @@
       "form_factor": "narrow"
     }
   ]
-=======
+
 {
   "name": "KX Music - Futuristic Music Streaming",
   "short_name": "KX Music",
@@ -80,5 +80,4 @@
       "form_factor": "narrow"
     }
   ]
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 } 

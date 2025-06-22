@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Track } from '@/contexts/MusicContext';
 
 export interface UploadResponse {
@@ -105,7 +105,7 @@ export const localMusicService = {
       return false;
     }
   }
-=======
+
 import { Track } from '@/contexts/MusicContext';
 
 export interface UploadResponse {
@@ -212,5 +212,4 @@ export const localMusicService = {
       return false;
     }
   }
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 }; 

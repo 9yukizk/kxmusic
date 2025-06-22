@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Service Worker for KX Music PWA
 const CACHE_NAME = 'kxmusic-v1.0.0';
 const urlsToCache = [
@@ -44,7 +44,7 @@ self.addEventListener('activate', (event) => {
       );
     })
   );
-=======
+
 // Service Worker for KX Music PWA
 const CACHE_NAME = 'kxmusic-v1.0.0';
 const urlsToCache = [
@@ -90,5 +90,4 @@ self.addEventListener('activate', (event) => {
       );
     })
   );
->>>>>>> 0c5f55189a494bedfad37fe5688daf97b7f48f4a
 }); 
